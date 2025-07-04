@@ -1,0 +1,31 @@
+
+.p1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+    font-style: italic;
+}
+
+.p2 {
+    text-decoration: line-through;
+}
+
+.p3 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.p4 {
+    font-size: 30px;
+    letter-spacing: 30px;
+    text-shadow: 10 100 10 #000000;
+    color: #8007af;
+    text-decoration: wavy overline #8007af;
+
+}
+.p5 {
+    letter-spacing: 5px;
+    font-size: 30px;
+    text-decoration: underline double #ff0000;
+}
